@@ -37,13 +37,13 @@
     color: white;
     font-size: 1.1rem;
  
-     -o-transition: background-color .2s ease-in; 
-     -moz-transition: background-color .2s ease-in;
-     -webkit-transition: background-color .2s ease-in; 
-     transition: background-color .2s ease-in; 
+     -o-transition: background-color .1s ease-in; 
+     -moz-transition: background-color .1s ease-in;
+     -webkit-transition: background-color .1s ease-in; 
+     transition: background-color .1s ease-in; 
  }
  
 
  .center-container > button:active {
-     background-color: rgb(153, 0, 255);
+     background-color: rgb(36, 0, 59);
  }
